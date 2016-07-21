@@ -1,1 +1,1 @@
-# ZurgTec
+/*bienvenido a este archivo de solo lectura*/
